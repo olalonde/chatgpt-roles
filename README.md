@@ -2,7 +2,7 @@
 
 Compatible with [aichat](./sigoden/aichat).
 
-Use `.info` in the aichat REPL to find out where to save the `roles.yaml` file).
+Use `.info` in the aichat REPL to find out where to save the `roles.yaml` file.
 
 PRs welcomed.
 
